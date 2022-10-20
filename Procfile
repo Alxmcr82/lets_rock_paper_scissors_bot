@@ -1,0 +1,1 @@
+worker: python lets_rock_paper_bot.py
